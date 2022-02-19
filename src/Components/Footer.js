@@ -19,7 +19,7 @@ const Footer = () => {
             </div>
             <div className="flex justify-center mt-4">
                 <p className="text-black mb-4">
-                    Made with <span className="mr-2" role="link" aria-label="heart">❤️</span>by <a className="text-blue-800 font-semibold hover:underline drop-shadow-lg" href="mailto:me.proneetofficial111@gmail.com">Proneet Kumar Seth</a>
+                    Made From <span className="mr-2" role="link" aria-label="heart">❤️</span>by <a className="text-blue-800 font-semibold hover:underline drop-shadow-lg" href="mailto:me.proneetofficial111@gmail.com">Proneet Kumar Seth</a>
                 </p>
             </div>
         </div>
